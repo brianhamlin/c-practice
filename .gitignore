@@ -1,0 +1,21 @@
+```gitignore id="3crukq"
+# Build artifacts
+build/
+
+# Object files
+*.o
+
+# Debug symbols
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Vim
+*.swp
+*.swo
+```
